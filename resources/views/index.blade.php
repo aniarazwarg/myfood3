@@ -18,7 +18,7 @@
          <div> <a href="">entregador</a></div>
          <div class="cce">
              <button type="button" class="conta" theme="link" > Criar conta </button>
-             <a href=login.php class="entrar"> Entrar </a>
+             <a href=login class="entrar"> Entrar </a>
          </div>  
         </div>
 
@@ -76,7 +76,10 @@
 
                 <div class="col-4 card1" id="card1">
                     <h1 id="rest">Restaurantes</h1>
-                    <button class="opt" theme="link">Ver opções > </button>
+
+                    <button type="button" class="opt" theme="link" href=restaurantes > Ver opções </button>
+              
+                    
                     <img src="img/restaurant.webp">
                 </div>
              

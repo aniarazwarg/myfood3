@@ -20,4 +20,9 @@ class myfoodController extends Controller
     {
         return view ('validar');
     }
+
+    public function restaurantes()
+    {
+        return view ('restaurantes');
+    }
 }

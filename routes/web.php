@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\myfoodController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +17,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+Route::get('/index', [myfoodController::class, 'index']);
+Route::get('/login', [myfoodController::class, 'login']);
+Route::get('/validar', [myfoodController::class, 'validar']);

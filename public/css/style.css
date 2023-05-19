@@ -1,0 +1,130 @@
+header{
+
+    grid-template-columns: auto;
+}
+
+.nav{
+    padding: 70px, 40px,32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.logo img{ 
+    padding-left: 10px;
+    width: 70px;
+
+}
+
+a{
+    text-decoration: none;
+    font-size: large;
+    color: black;
+    margin: 3px,0px;
+    padding: 0px,10px;
+}
+button .conta{
+    
+}
+button{
+    border-color: rgba(240, 248, 255, 0) ;
+
+}
+.conta{
+    background-color: rgba(240, 248, 255, 0);
+    color: red;
+    
+}
+.entrar{
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    border: radius 5px;
+}
+
+.bg-dark {
+    --bs-bg-opacity: 0;
+    background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+}
+
+
+.buscar{
+    width: 150px;
+    height: 38px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    border: radius 10px;
+}
+
+.card1{
+margin: 15px;
+width: fit-content;
+background-color: red;
+border-radius: 20px;
+color: white;
+border: radius 10px;
+}
+.card1 button{
+    background-color: brown;
+}
+
+.card2{
+    margin: 15px;
+    width: fit-content;
+    background-color:#b6d048;
+    border-radius: 20px;
+    color: white;
+    border: radius 10px;
+    }
+    .card2 button{
+        background-color: #7b8b30
+    }
+
+    
+    .cards{
+        margin-top: 80px;
+    }
+    
+.crimg{
+height: 80px;
+
+ }
+
+
+ img.fig1 {
+    width: 350px;
+    height: 200px;
+    margin: 4px;
+}
+img.fig2 {
+width: 350px;
+height: 200px;
+margin: 4px;
+}
+img.fig3 {
+    
+width: 350px;
+height: 200px;
+margin: 4px;
+}
+
+
+.text-white {
+    --bs-text-opacity: 1;
+    color:black  !important;
+}
+
+.card-img-overlay{
+padding-left: 200px;
+}
+
+.card-img{
+width: 300px;
+}
+
+  /* width: 510px;
+box-shadow: 0 1px 4px rgb(0 0 0 / 5%), 0 4px 16px rgb(0 0 0 / 6%);
+border-radius: 8px;
+padding: 36px 50px;
+background-color: #fff;
+align-self: center; */

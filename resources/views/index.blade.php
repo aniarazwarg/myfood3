@@ -12,10 +12,11 @@
     <header>
         <div class="nav navbar-expand-lg navbar-light bg-light">
          <div class="logo"><img src="img/logo.png" alt=""></div>
-         <div> <a href="">entregador</a></div>
-         <div> <a href="">entregador</a></div>
-         <div> <a href="">entregador</a></div>
-         <div> <a href="">entregador</a></div>
+         <div> <a href="index">Home</a></div>
+         <div> <a href="restaurantes">Restaurantes</a></div>
+         <div> <a href="filiais">Filiais</a></div>
+         <div> <a href="sobre">Sobre</a></div>
+         
          <div class="cce">
              <button type="button" class="conta" theme="link" > Criar conta </button>
              <a href=login class="entrar"> Entrar </a>

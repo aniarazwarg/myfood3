@@ -13,9 +13,21 @@ use App\Http\Controllers\myfoodController;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
+});
+
+
+Route::get('/filiais', function () {
+    return view('filiais');
+});
+
+Route::get('/restaurantes', function () {
+    return view('restaurantes');
+});
+
+Route::get('/sobre', function () {
+    return view('sobre');
 });
 
 

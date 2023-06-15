@@ -32,10 +32,49 @@
                 </span>
             </div>
 
+            <?php 
+    
+            $servidor = 'localhost';
+            $usuario = 'root';
+            $senha = '';
+            $banco = 'myfood3';
+            
+            
+            $mysqli = new mysqli($servidor,$usuario,$senha,$banco);
+        
+           
+            if(mysqli_connect_errno()) triger_error(mysqli_connect_error());
+        
+            $sql = 'SELECT nm_item,img_item,ds_item FROM principal';
+            $query = $mysqli->query($sql); 
+        
+            
+            while ($item = $query->fetch_array())
+            {
+
+                echo "
+                <div class='col-md-3 ' >
+                   <div class='card'>
+                        <div class='card-body row row-cols-3'>
+                            <img src='$item[img_item]' class col-4 ='img-fluid rounded-start' >
+                        
+                            <h5 class='card-title'>. $item[nm_item]</h5>
+                            <p class='card-text'>$item[ds_item]</p>
+                            <p class='card-text'><small class='text-body-secondary'>peça agora</small></p>
+                        
+                        </div>
+                    
+                    </div>
+
+                </div>";
+                
+            }
+            ?>
+
         </section>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js">integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
-    <script src="js/bootstrap.js"></script>
+   
+   
 </body>
 </html>

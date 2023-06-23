@@ -21,7 +21,7 @@
                   <a class="nav-link active" aria-current="page" href="#">Entregador</a>
                 </li>
                 <li class="nav-item mx-md-2">
-                  <a class="nav-link active" aria-current="page" href="#">Restaurante e Mercado</a>
+                  <a class="nav-link active" aria-current="page" href="#">Restaurante </a>
                 </li>
                 <li class="nav-item mx-md-2">
                   <a class="nav-link active" aria-current="page" href="#">Carreiras</a>
@@ -29,6 +29,8 @@
                 <li class="nav-item mx-md-2">
                   <a class="nav-link active" aria-current="page" href="#">iFood Card</a>
                 </li>
+
+        
               </ul>
               <form class="" role="search">
                 <div class="d-grid gap-2 d-md-flex justify-content-md-end">

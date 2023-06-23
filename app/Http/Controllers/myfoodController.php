@@ -25,4 +25,14 @@ class myfoodController extends Controller
     {
         return view ('restaurantes');
     }
+
+    public function pet()
+    {
+        return view ('pet');
+    }
+
+    public function drink()
+    {
+        return view ('drink');
+    }
 }

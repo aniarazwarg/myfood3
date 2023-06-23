@@ -14,7 +14,9 @@
          <div class="logo"><img src="img/logo.png" alt=""></div>
          <div> <a href="index">Home</a></div>
          <div> <a href="restaurantes">Restaurantes</a></div>
-         <div> <a href="filiais">Filiais</a></div>
+         <div> <a href="filiais">Mercados</a></div>
+         <div> <a href="pet">Pet</a></div>
+         <div> <a href="drink">Drinks</a></div>
          <div> <a href="sobre">Sobre</a></div>
          
          <div class="cce">
@@ -78,7 +80,8 @@
                 <div class="col-4 card1" id="card1">
                     <h1 id="rest">Restaurantes</h1>
 
-                    <button type="button" class="opt" theme="link" href=restaurantes > Ver opções </button>
+                 
+                    <a href='restaurantes'><button type="button" class="opt" theme="link"> Ver opções </button></a>
               
                     
                     <img src="img/restaurant.webp">
@@ -87,7 +90,7 @@
 
                 <div class="col-4 card2" id="card2">
                     <h1 id="mark"> Mercados</h1>
-                    <button class="opt" theme="link">Ver opções > </button>
+                    <a href='filiais'><button type="button" class="opt" theme="link">Ver opções</button></a>
                     <img src="img/market.webp">
                 </div>
 

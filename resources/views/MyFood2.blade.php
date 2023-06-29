@@ -138,63 +138,55 @@
       <!-- Quarta seção -->
     <div class="container">
       <h4>Os melhores restaurantes</h1>
-      <div class="row d-flex justify-content-between rounded-3 mt-5" style="height: 132px">
-        <div class="col-2 border border-2 rounded-4 d-flex justify-content-center">
-          <a href="" class="d-flex align-items-center text-decoration-none text-dark">
-            <div class="">
-              <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2756%27%20height=%2756%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="Mcdonald's" crossorigin="anonymous" src="https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo McDonald_MCDON_DRIV15.jpg?imwidth=128" decoding="async" data-nimg="intrinsic" class="landing-v2-merchant__logo" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" srcset="https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo McDonald_MCDON_DRIV15.jpg?imwidth=64 1x, https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo McDonald_MCDON_DRIV15.jpg?imwidth=128 2x"><noscript></noscript></span>
-            </div>
-            <div class="">
-              <p class="my-0 ms-3">McDonald's</p>
-              <p class="my-0 ms-3" style="font-size: 12px">Lanches</p>
-            </div>
-          </a>
-        </div>
-        <div class="col-2 border border-2 rounded-4 d-flex justify-content-center">
-          <a href="" class="d-flex align-items-center text-decoration-none text-dark">
-            <div class="">
-            <span class="rounded-5" style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2756%27%20height=%2756%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="Coco Bambu" crossorigin="anonymous" src="https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201910292243_94aaf166-84cc-4ebf-a35d-d223be34d01f.png?imwidth=128" decoding="async" data-nimg="intrinsic" class="landing-v2-merchant__logo" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" srcset="https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201910292243_94aaf166-84cc-4ebf-a35d-d223be34d01f.png?imwidth=64 1x, https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201910292243_94aaf166-84cc-4ebf-a35d-d223be34d01f.png?imwidth=128 2x"><noscript></noscript></span>
-            </div>
-            <div class="">
-              <p class="my-0 ms-3">Coco Bambu</p>
-              <p class="my-0 ms-3" style="font-size: 12px">Frutos Do Mar</p>
-            </div>
-          </a>
-        </div>
-        <div class="col-2 border border-2 rounded-4 d-flex justify-content-center">
-          <a href="" class="d-flex align-items-center text-decoration-none text-dark">
-            <div class="">
-            <span class="rounded-5" style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2756%27%20height=%2756%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="China in Box" crossorigin="anonymous" src="https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/d4a3984f-2b73-4f46-99df-1d6bc79ff293/202001031317_CXpO_i.png?imwidth=128" decoding="async" data-nimg="intrinsic" class="landing-v2-merchant__logo" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" srcset="https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/d4a3984f-2b73-4f46-99df-1d6bc79ff293/202001031317_CXpO_i.png?imwidth=64 1x, https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/d4a3984f-2b73-4f46-99df-1d6bc79ff293/202001031317_CXpO_i.png?imwidth=128 2x"><noscript></noscript></span>
-            </div>
-            <div class="">
-              <p class="my-0 ms-3">China in Box</p>
-              <p class="my-0 ms-3" style="font-size: 12px">Chinesa</p>
-            </div>
-          </a>
-        </div>
-        <div class="col-2 border border-2 rounded-4 d-flex justify-content-center">
-          <a href="" class="d-flex align-items-center text-decoration-none text-dark">
-            <div class="">
-              <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2756%27%20height=%2756%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="Mcdonald's" crossorigin="anonymous" src="https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo McDonald_MCDON_DRIV15.jpg?imwidth=128" decoding="async" data-nimg="intrinsic" class="landing-v2-merchant__logo" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" srcset="https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo McDonald_MCDON_DRIV15.jpg?imwidth=64 1x, https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo McDonald_MCDON_DRIV15.jpg?imwidth=128 2x"><noscript></noscript></span>
-            </div>
-            <div class="">
-              <p class="my-0 ms-3">McDonald's</p>
-              <p class="my-0 ms-3" style="font-size: 12px">Lanches</p>
-            </div>
-          </a>
-        </div>
-        <div class="col-2 border border-2 rounded-4 d-flex justify-content-center">
-          <a href="" class="d-flex align-items-center text-decoration-none text-dark">
-            <div class="">
-              <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2756%27%20height=%2756%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="Mcdonald's" crossorigin="anonymous" src="https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo McDonald_MCDON_DRIV15.jpg?imwidth=128" decoding="async" data-nimg="intrinsic" class="landing-v2-merchant__logo" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;" srcset="https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo McDonald_MCDON_DRIV15.jpg?imwidth=64 1x, https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo McDonald_MCDON_DRIV15.jpg?imwidth=128 2x"><noscript></noscript></span>
-            </div>
-            <div class="">
-              <p class="my-0 ms-3">McDonald's</p>
-              <p class="my-0 ms-3" style="font-size: 12px">Lanches</p>
-            </div>
-          </a>
-        </div>
+        <div>
+          <?php 
+      
+          $servidor = 'localhost';
+          $usuario = 'root';
+          $senha = '';
+          $banco = 'myfood3';
+          
+          
+          $mysqli = new mysqli($servidor,$usuario,$senha,$banco);
+      
+         
+          if(mysqli_connect_errno()) triger_error(mysqli_connect_error());
+     
+          $sql = 'SELECT nm_item,img_item,ds_item FROM `principal1` WHERE `categoria` = "Restaurante"';
+          
+          // echo $sql;
+          $query = $mysqli->query($sql); 
+      
+          
+              while ($item = $query->fetch_array())
+          {
+      
+              echo "
+              <div class='card d-inline-flex col-md-3' >
+                 <div class='card'>
+                      <div class='card-body row row-cols-3'>
+                          <img src='$item[img_item]' class col-4 ='img-fluid rounded-start' >
+      
+                          <h5 class='card-title'>. $item[nm_item]</h5>
+                          <p class='card-text'>$item[ds_item]</p>
+                          <p class='card-text'><small class='text-body-secondary'>peça agora</small></p>
+                      
+                      </div>
+                  
+                  </div>
+      
+              </div>";
+              
+          
+         
+              
+          }
+          
+          ?>
+      
       </div>
+      
+      
         <!-- Quinta seção -->
       <div class="row d-flex justify-content-evenly rounded-4 ">
         <div class="col mt-5">

@@ -132,6 +132,8 @@
                     <h2> Os melhores restaurantes.</h1>
                 </div>
 
+                
+
                 <div class="col-2 crimg" id="crimg">
                     <div class="card border-dark mb-3" >                        
                          <img class="figure" src="img/rest (6).jpeg" alt="">
@@ -220,6 +222,14 @@
           </div>
     </div>
 </div>
+<footer class="bg-light text-center text-lg-start">
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+      MY FOOD - Aniara - 2DS3 © 2023 
+      
+    </div>
+    <!-- Copyright -->
+  </footer>
                
             
 
